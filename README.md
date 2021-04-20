@@ -51,7 +51,7 @@ We will develop an intelligent agent (Alpha-Pacman) that plays Pacman for us.
 
 zip entire project files including git log
 ```console
-$zip <MyName>.zip -r *
+$zip <MyName>.zip -r * .git
 ```
 then, upload <MyName>.zip to LMS homework submission.
 
