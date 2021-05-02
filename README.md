@@ -36,8 +36,7 @@ Throughout project, try to commit your changes by git commit -m "change message"
 
 ```console
 $git clone https://github.com/leeymcj/pacman.git
-$unzip search.zip
-$cd search
+$cd pacman
 ```
 You should be able to play a game of Pacman by typing the following at the command line (note the left key is a right key is d) : 
 
